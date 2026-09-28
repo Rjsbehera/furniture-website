@@ -1,0 +1,10 @@
+node_modules\
+vendor\
+.env
+.env.local
+\dist
+\build
+--pycache
+.DS_Store
+.idea\
+.vscode\
